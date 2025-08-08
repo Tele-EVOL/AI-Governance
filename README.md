@@ -1,4 +1,4 @@
-# Awesome AI Governance
+# Awesome AI Safety & Governance
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Stars](https://img.shields.io/github/stars/YourRepo/Awesome-AI-Governance)](https://github.com/YourRepo/Awesome-AI-Governance/stargazers)
@@ -33,9 +33,8 @@ This repository aims to provide researchers, engineers, policymakers, and the pu
 
 ---
 ## News
-- **[2025.08.08]** &#x1f44f; Datasets & Benchmarks section updated with a detailed taxonomy.
-- **[2025.08.08]** &#x1f525; Repo scope expanded to include Policies, News, Tools, and Datasets, becoming a more comprehensive hub for AI Governance.
-- **[2025.08.08]** &#x1f680; Repository launched! The structure is based on the AI Governance framework from our TPAMI 2025 survey.
+- **[2025.08.08]** &#x1f680; Repository launched! This is a comprehensive hub for AI Governance, including papers, policies, tools, and datasets, with a detailed taxonomy based on our TPAMI 2025 survey.
+
 
 ## Collections
 
