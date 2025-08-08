@@ -6,14 +6,14 @@
 
 ## Introduction
 
-This repository serves as a comprehensive and structured collection of resources on **AI Governance**. [cite_start]The rapid advancement of AI has introduced complex technical vulnerabilities and societal risks, underscoring the pressing need for a holistic governance framework[cite: 10, 11]. [cite_start]This collection is organized according to the principles outlined in our survey, "[Never Compromise to Vulnerabilities: A Comprehensive Survey on Al Governance](https://example.com/link_to_your_paper.pdf)," which integrates technical methodologies, evaluation benchmarks, and policy perspectives[cite: 14].
+This repository serves as a comprehensive resource hub for **AI Governance**. The rapid advancement of AI has introduced complex technical vulnerabilities and societal risks, underscoring the pressing need for a holistic governance framework. This collection aims to bridge the gap between technical research, policy-making, and real-world application by curating not only academic papers but also key **policies and regulations**, impactful **news and case studies**, practical **technical tools**, and crucial **datasets**.
 
-[cite_start]Our framework categorizes AI Governance into three interconnected pillars[cite: 13]:
-* [cite_start]**Intrinsic Security**: Focusing on internal system reliability and robustness[cite: 13, 62, 152].
-* [cite_start]**Derivative Security**: Addressing external, real-world harms arising from AI deployment[cite: 13, 62, 281].
-* [cite_start]**Social Ethics**: Centered on value alignment, accountability, and societal impact[cite: 13, 62].
+Our organizing principle is derived from the framework in our survey, "[Never Compromise to Vulnerabilities: A Comprehensive Survey on Al Governance](https://example.com/link_to_your_paper.pdf)," which categorizes AI Governance into three pillars:
+* **Intrinsic Security**: Internal system reliability and robustness.
+* **Derivative Security**: External, real-world harms from AI deployment.
+* **Social Ethics**: Value alignment, accountability, and societal impact.
 
-[cite_start]This repository aims to provide researchers, engineers, and policymakers with a curated list of papers, toolkits, and benchmarks to design AI systems that are not only high-performing but also secure, ethical, and aligned with public trust[cite: 20].
+This repository aims to provide researchers, engineers, policymakers, and the public with a structured guide to navigating the multifaceted landscape of AI Governance.
 
 - This repo is a living document and is actively being updated :seedling:.
 - **Badges:**
@@ -25,22 +25,27 @@ This repository serves as a comprehensive and structured collection of resources
     - **Tag:** ![Benchmark](https://img.shields.io/badge/Benchmark-87b800) ![Technical_Solution](https://img.shields.io/badge/Technical_Solution-87b800) ![Defense](https://img.shields.io/badge/Defense-87b800) ![Policy](https://img.shields.io/badge/Policy-87b800) ![Evaluation](https://img.shields.io/badge/Evaluation-87b800) ![Framework](https://img.shields.io/badge/Framework-87b800) ![Dataset](https://img.shields.io/badge/Dataset-87b800)
     - **Venue:** ![TPAMI](https://img.shields.io/badge/TPAMI-f1b800) ![CVPR](https://img.shields.io/badge/CVPR-f1b800) ![ICCV](https://img.shields.io/badge/ICCV-f1b800) ![ACL](https://img.shields.io/badge/ACL-f1b800) ![NeurIPS](https://img.shields.io/badge/NeurIPS-f1b800) ![ICML](https://img.shields.io/badge/ICML-f1b800) ![USENIX](https://img.shields.io/badge/USENIX-f1b800)
 
-:sunflower: We welcome contributions! Please feel free to open a pull request or issue to add more resources using the following format:
+:sunflower: We welcome contributions! Please feel free to open a pull request or issue to add more resources. For academic papers, please use the format below. For other resources like policies or tools, the "Classification" column can be adapted accordingly (e.g., "EU AI Act", "Detection Tool").
 
-| Title | Link | Code | Venue | Classification | Model | Tag |
+| Title | Link | Code/Source | Venue/Issuer | Classification | Model | Tag |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Paper Title | arxiv | github | Venue'YY | 1.1 Adversarial Vulnerability | LLM | Defense |
 
 ---
 ## News
+- **[2025.08.08]** &#x1f44f; Datasets & Benchmarks section updated with a detailed taxonomy.
+- **[2025.08.08]** &#x1f525; Repo scope expanded to include Policies, News, Tools, and Datasets, becoming a more comprehensive hub for AI Governance.
 - **[2025.08.08]** &#x1f680; Repository launched! The structure is based on the AI Governance framework from our TPAMI 2025 survey.
 
 ## Collections
-- [Survey](collection/survey.md) (XX)
-- [Toolkit](collection/toolkit.md) (XX)
-- [Leaderboard](collection/leaderboard.md) (XX)
-- [Book](collection/book.md) (XX)
-- **Paper** (XXXX)
+
+- [**Policies & Regulations**](collection/policies.md) (XX)
+- [**News & Case Studies**](collection/news_cases.md) (XX)
+- [**Technical Tools & Toolkits**](collection/toolkits.md) (XX)
+- [Leaderboards](collection/leaderboards.md) (XX)
+- [Surveys](collection/surveys.md) (XX)
+- [Books](collection/books.md) (XX)
+- - **Papers** (XXXX)
     - **1. Intrinsic Security** (XXX)
         - [1.1 Adversarial Vulnerability](collection/paper/intrinsic_security/adversarial_vulnerability.md) (XX)
         - [1.2 Robustness](collection/paper/intrinsic_security/robustness.md) (XX)
@@ -54,6 +59,18 @@ This repository serves as a comprehensive and structured collection of resources
         - [3.1 Social & Economic Impact](collection/paper/social_ethics/social_economic_impact.md) (XX)
         - [3.2 Ethical & Legal Issues](collection/paper/social_ethics/ethical_legal.md) (XX)
         - [3.3 Responsibility & Accountability](collection/paper/social_ethics/responsibility_accountability.md) (XX)
+- **Datasets & Benchmarks** (XXX)
+    - **1. For Intrinsic Security** (XX)
+        - [1.1 Robustness & Adversarial](collection/datasets/intrinsic_security/robustness.md) (XX)
+        - [1.2 Hallucination](collection/datasets/intrinsic_security/hallucination.md) (XX)
+        - [1.3 Interpretability](collection/datasets/intrinsic_security/interpretability.md) (XX)
+    - **2. For Derivative Security** (XX)
+        - [2.1 Privacy](collection/datasets/derivative_security/privacy.md) (XX)
+        - [2.2 Bias & Discrimination](collection/datasets/derivative_security/bias_discrimination.md) (XX)
+        - [2.3 Abuse & Misuse (Deepfake)](collection/datasets/derivative_security/abuse_misuse.md) (XX)
+    - **3. For Social Ethics** (XX)
+        - [3.1 Fairness & Value Alignment](collection/datasets/social_ethics/fairness.md) (XX)
+
 
 ## Thank you to our contributors! 🙏
 
