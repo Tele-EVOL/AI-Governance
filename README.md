@@ -58,15 +58,15 @@ This repository aims to provide researchers, engineers, policymakers, and the pu
         - [3.2 Ethical & Legal Issues](collection/paper/social_ethics/ethical_legal.md) (XX)
         - [3.3 Responsibility & Accountability](collection/paper/social_ethics/responsibility_accountability.md) (XX)
 - **Datasets & Benchmarks** (XXX)
-    - **1. For Intrinsic Security** (XX)
+    - **1. Intrinsic Security** (XX)
         - [1.1 Robustness & Adversarial](collection/datasets/intrinsic_security/robustness.md) (XX)
         - [1.2 Hallucination](collection/datasets/intrinsic_security/hallucination.md) (XX)
         - [1.3 Interpretability](collection/datasets/intrinsic_security/interpretability.md) (XX)
-    - **2. For Derivative Security** (XX)
+    - **2. Derivative Security** (XX)
         - [2.1 Privacy](collection/datasets/derivative_security/privacy.md) (XX)
         - [2.2 Bias & Discrimination](collection/datasets/derivative_security/bias_discrimination.md) (XX)
         - [2.3 Abuse & Misuse (Deepfake)](collection/datasets/derivative_security/abuse_misuse.md) (XX)
-    - **3. For Social Ethics** (XX)
+    - **3. Social Ethics** (XX)
         - [3.1 Fairness & Value Alignment](collection/datasets/social_ethics/fairness.md) (XX)
 
 
