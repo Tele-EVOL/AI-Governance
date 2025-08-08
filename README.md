@@ -1,4 +1,4 @@
-# Awesome AI Safety & Governance
+# Awesome AI Governance
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Stars](https://img.shields.io/github/stars/YourRepo/Awesome-AI-Governance)](https://github.com/YourRepo/Awesome-AI-Governance/stargazers)
@@ -35,7 +35,6 @@ This repository aims to provide researchers, engineers, policymakers, and the pu
 ## News
 - **[2025.08.08]** &#x1f680; Repository launched! This is a comprehensive hub for AI Governance, including papers, policies, tools, and datasets, with a detailed taxonomy based on our TPAMI 2025 survey.
 
-
 ## Collections
 
 - [**Policies & Regulations**](collection/policies.md) (XX)
@@ -44,7 +43,7 @@ This repository aims to provide researchers, engineers, policymakers, and the pu
 - [Leaderboards](collection/leaderboards.md) (XX)
 - [Surveys](collection/surveys.md) (XX)
 - [Books](collection/books.md) (XX)
-- - **Papers** (XXXX)
+- **Papers** (XXXX)
     - **1. Intrinsic Security** (XXX)
         - [1.1 Adversarial Vulnerability](collection/paper/intrinsic_security/adversarial_vulnerability.md) (XX)
         - [1.2 Robustness](collection/paper/intrinsic_security/robustness.md) (XX)
