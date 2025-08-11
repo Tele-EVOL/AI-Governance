@@ -63,9 +63,9 @@ This repository aims to provide researchers, engineers, policymakers, and the pu
         - [1.2 Hallucination](collection/datasets/intrinsic_security/hallucination.md) (XX)
         - [1.3 Interpretability](collection/datasets/intrinsic_security/interpretability.md) (XX)
     - **2. Derivative Security** (XX)
-        - [2.1 Privacy](collection/datasets/derivative_security/privacy.md) (XX)
-        - [2.2 Bias & Discrimination](collection/datasets/derivative_security/bias_discrimination.md) (XX)
-        - [2.3 Abuse & Misuse (Deepfake)](collection/datasets/derivative_security/abuse_misuse.md) (XX)
+        - [2.1 Privacy](collections/benchmarks/derivate_security/privacy.md) (XX)
+        - [2.2 Bias & Discrimination](collections/benchmarks/derivate_security/bias_discrimination.md) (XX)
+        - [2.3 Abuse & Misuse (Deepfake)](collections/benchmarks/derivate_security/abuse_misuse.md) (XX)
     - **3. Social Ethics** (XX)
         - [3.1 Fairness & Value Alignment](collection/datasets/social_ethics/fairness.md) (XX)
 
