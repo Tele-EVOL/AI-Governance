@@ -1,0 +1,21 @@
+# **Social & Economic Impact**
+- [2025/02]**[Income and wage inequalities from automation. A European perspective](https://link.springer.com/article/10.1007/s10037-025-00225-3)** 
+- [2024/12]**[Artificial intelligence's creation and displacement of labor demand](https://www.sciencedirect.com/science/article/abs/pii/S004016252400622X)**
+- [2024/11]**[Algorithmic Pricing and Competition: Empirical Evidence from the German Retail Gasoline Market](https://www.journals.uchicago.edu/doi/abs/10.1086/726906)**
+- [2024/11]**[Unveiling the automation—wage inequality nexus within and across regions](https://link.springer.com/article/10.1007/s00168-024-01317-7)** 
+- [2024/11]**[Artificial intelligence, wage dynamics, and inequality: Empirical evidence from Chinese listed firms](https://www.sciencedirect.com/science/article/abs/pii/S1059056024007317)**
+- [2024/09] **[Robotics applications, inclusive employment and income disparity](https://www.sciencedirect.com/science/article/abs/pii/S0160791X24001696)** 
+- [2024/03]**[Epidemic effects in the diffusion of emerging digital technologies: evidence from artificial intelligence adoption](https://www.sciencedirect.com/science/article/pii/S0048733323002019)**
+- [2023/10]**[Generative AI and Jobs: A Global Analysis of Potential Effects on Job Quantity and Quality](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4584219)**
+- [2023/05]**[Risks to job quality from digital technologies: Are industrial relations in Europe ready for the challenge?](https://journals.sagepub.com/doi/full/10.1177/09596801231178904)**
+- [2022/12]**[Does robotization affect job quality? Evidence from European regional labor markets](https://onlinelibrary.wiley.com/doi/full/10.1111/irel.12324)**
+- [2022/08]**[Automation, Job Polarisation, and Structural Change](https://www.sciencedirect.com/science/article/abs/pii/S0167268122001846)**
+- [2021/09]**[Artificial intelligence and productivity: an intangible assets approach](https://academic.oup.com/oxrep/article/37/3/435/6374681)**
+- [2021/07]**[Artificial intelligence, firms and consumer behavior: A survey](https://onlinelibrary.wiley.com/doi/10.1111/joes.12455)**![Survey](https://img.shields.io/badge/Survey-87b800)
+- [2021/05]**[Embodied and disembodied technological change: The sectoral patterns of job-creation and job-destruction](https://www.sciencedirect.com/science/article/abs/pii/S0048733321000032)**
+- [2021/02] **[“Aging-and-Tech Job Vulnerability”: A proposed framework on the dual impact of aging and AI, robotics, and automation among older workers](https://journals.sagepub.com/doi/10.1177/2041386621992105)**
+- [2020/05]**[The geography of Industry 4.0 technologies across European regions](https://www.tandfonline.com/doi/full/10.1080/00343404.2021.1884216)**
+- [2020/05]**[The fall of the labor share and the rise of superstar firms](https://academic.oup.com/qje/article-abstract/135/2/645/5721266)**
+- [2019/04]**[Algorithmic Bias? An Empirical Study of Apparent Gender-Based Discrimination in the Display of STEM Career Ads](https://pubsonline.informs.org/doi/10.1287/mnsc.2018.3093)** 
+- [2018/05]**[Human Judgment and AI Pricing](https://www.aeaweb.org/articles?id=10.1257/pandp.20181022)**
+
