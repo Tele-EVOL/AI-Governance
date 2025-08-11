@@ -36,6 +36,8 @@ This repository aims to provide researchers, engineers, policymakers, and the pu
 - **[2025.08.08]** &#x1f680; Repository launched! This is a comprehensive hub for AI Governance, including papers, policies, tools, and datasets, with a detailed taxonomy based on our TPAMI 2025 survey.
 
 ## Collections
+
+- [Policies & Regulations](collection/policies.md) (XX)
 - [Surveys](collection/surveys.md) (XX)
 - [Books](collection/books.md) (XX)
 - **Papers** (XXXX)
