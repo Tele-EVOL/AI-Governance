@@ -11,7 +11,7 @@
 - [2022/12]**[Does robotization affect job quality? Evidence from European regional labor markets](https://onlinelibrary.wiley.com/doi/full/10.1111/irel.12324)**
 - [2022/08]**[Automation, Job Polarisation, and Structural Change](https://www.sciencedirect.com/science/article/abs/pii/S0167268122001846)**
 - [2021/09]**[Artificial intelligence and productivity: an intangible assets approach](https://academic.oup.com/oxrep/article/37/3/435/6374681)**
-- [2021/07]**[Artificial intelligence, firms and consumer behavior: A survey](https://onlinelibrary.wiley.com/doi/10.1111/joes.12455)**![Survey](https://img.shields.io/badge/Survey-87b800)
+- [2021/07]**[Artificial intelligence, firms and consumer behavior: A survey](https://onlinelibrary.wiley.com/doi/10.1111/joes.12455)** ![Survey](https://img.shields.io/badge/Survey-87b800)
 - [2021/05]**[Embodied and disembodied technological change: The sectoral patterns of job-creation and job-destruction](https://www.sciencedirect.com/science/article/abs/pii/S0048733321000032)**
 - [2021/02] **[“Aging-and-Tech Job Vulnerability”: A proposed framework on the dual impact of aging and AI, robotics, and automation among older workers](https://journals.sagepub.com/doi/10.1177/2041386621992105)**
 - [2020/05]**[The geography of Industry 4.0 technologies across European regions](https://www.tandfonline.com/doi/full/10.1080/00343404.2021.1884216)**
