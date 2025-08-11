@@ -16,7 +16,7 @@
 
 - [2023/12] **[Seeing is not always believing: Benchmarking Human and Model Perception of AI-Generated Images](https://openreview.net/forum?id=Xoi31wJ5iI)** ![AIGC](https://img.shields.io/badge/AIGC-a99cf4) ![Benchmark](https://img.shields.io/badge/Benchmark-87b800) ![NIPS](https://img.shields.io/badge/NIPS-f1b800)
 
-- [2023/10] **[A Comprehensive Framework for Evaluating Deepfake Generators: Dataset, Metrics Performance, and Comparative Analysis (ICCV Workshops)](https://openaccess.thecvf.com/content/ICCV2023W/DFAD/html/Husseini_A_Comprehensive_Framework_for_Evaluating_Deepfake_Generators_Dataset_Metrics_Performance_ICCVW_2023_paper.html)** ![AIGC](https://img.shields.io/badge/AIGC-a99cf4) ![Dataset](https://img.shields.io/badge/Dataset-87b800) ![Evaluation](https://img.shields.io/badge/Evaluation-87b800) ![ICCVW](https://img.shields.io/badge/ICCVW-f1b800)
+- [2023/10] **[A Comprehensive Framework for Evaluating Deepfake Generators: Dataset, Metrics Performance, and Comparative Analysis](https://openaccess.thecvf.com/content/ICCV2023W/DFAD/html/Husseini_A_Comprehensive_Framework_for_Evaluating_Deepfake_Generators_Dataset_Metrics_Performance_ICCVW_2023_paper.html)** ![AIGC](https://img.shields.io/badge/AIGC-a99cf4) ![Dataset](https://img.shields.io/badge/Dataset-87b800) ![Evaluation](https://img.shields.io/badge/Evaluation-87b800) ![ICCVW](https://img.shields.io/badge/ICCVW-f1b800)
 
 - [2023/06] **[DF-Platter: Multi-Face Heterogeneous Deepfake Dataset](https://openaccess.thecvf.com/content/CVPR2023/html/Narayan_DF-Platter_Multi-Face_Heterogeneous_Deepfake_Dataset_CVPR_2023_paper.html)** ![Dataset](https://img.shields.io/badge/Dataset-87b800) ![CVPR](https://img.shields.io/badge/CVPR-f1b800)
 
