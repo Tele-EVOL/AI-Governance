@@ -1,0 +1,19 @@
+- [2025/01] **[A survey on hallucination in large language models: Principles, taxonomy, challenges, and open questions](https://arxiv.org/abs/2311.05232)**
+
+- [2024/12] **[Toward adaptive reasoning in large language models with thought rollback](https://arxiv.org/abs/2412.19707)**
+- [2024/11] **[VL-Uncertainty: Detecting Hallucination in Large Vision-Language Model via Uncertainty Estimation](https://arxiv.org/abs/2411.11919)**
+- [2024/10] **[Hallu-pi: Evaluating hallucination in multi-modal large language models within perturbed inputs](https://arxiv.org/abs/2408.01355)**
+- [2024/10] **[Mllm can see? dynamic correction decoding for hallucination mitigation](https://arxiv.org/abs/2410.11779)**
+- [2024/10] **[Look twice before you answer: Memory-space visual retracing for hallucination mitigation in multimodal large language models](https://arxiv.org/abs/2410.03577)**
+- [2024/10] **[Fine-Tuning Large Language Models to Appropriately Abstain with Semantic Entropy](https://arxiv.org/abs/2410.17234)**
+- [2024/07] **[Generation constraint scaling can mitigate hallucination](https://arxiv.org/abs/2407.16908)**
+- [2024/06] **[Detecting hallucinations in large language models using semantic entropy](https://arxiv.org/abs/2405.19648)**
+- [2024/06] **[Hallucination augmented contrastive learning for multimodal large language model](https://openaccess.thecvf.com/content/CVPR2024/html/Jiang_Hallucination_Augmented_Contrastive_Learning_for_Multimodal_Large_Language_Model_CVPR_2024_paper.html)**
+- [2024/06] **[Opera: Alleviating hallucination in multi-modal large language models via over-trust penalty and retrospection-allocation](https://arxiv.org/abs/2311.17911)**
+- [2024/06] **[Groundhog: Grounding large language models to holistic segmentation](https://arxiv.org/abs/2402.16846)**
+- [2024/06] **[Vcoder: Versatile vision encoders for multimodal large language models](https://openaccess.thecvf.com/content/CVPR2024/html/Jain_VCoder_Versatile_Vision_Encoders_for_Multimodal_Large_Language_Models_CVPR_2024_paper.html)**
+- [2024/05] **[Woodpecker: Hallucination correction for multimodal large language models](https://arxiv.org/abs/2310.16045)**
+- [2024/01] **[Vigc: Visual instruction generation and correction](https://ojs.aaai.org/index.php/AAAI/article/view/28410)**
+- [2023/12] **[Mitigating open-vocabulary caption hallucinations](https://arxiv.org/abs/2312.03631)**
+- [2023/11] **[Mitigating hallucination in visual language models with visual supervision](https://arxiv.org/abs/2311.16479)**
+- [2023/10] **[Ferret: Refer and ground anything anywhere at any granularity](https://arxiv.org/abs/2310.07704)**
