@@ -66,8 +66,6 @@ This repository aims to provide researchers, engineers, policymakers, and the pu
         - [2.1 Privacy](collections/benchmarks/derivate_security/privacy.md) (XX)
         - [2.2 Bias & Discrimination](collections/benchmarks/derivate_security/bias_discrimination.md) (XX)
         - [2.3 Abuse & Misuse (Deepfake)](collections/benchmarks/derivate_security/abuse_misuse.md) (XX)
-    - **3. Social Ethics** (XX)
-        - [3.1 Fairness & Value Alignment](collection/datasets/social_ethics/fairness.md) (XX)
 
 
 ## Thank you to our contributors! 🙏
