@@ -37,10 +37,10 @@ This repository aims to provide researchers, engineers, policymakers, and the pu
 
 ## Collections
 
-- [Policies & Regulations](collection/policies.md) (XX)
-- [Surveys](collection/surveys.md) (XX)
-- [Books](collection/books.md) (XX)
-- **Papers** (XXXX)
+- [Policies & Regulations](collection/policies.md) (8)
+- [Surveys](collection/surveys.md) (10)
+- [Books](collection/books.md) (10)
+- **Papers** (310)
     - **1. Intrinsic Security** (XXX)
         - [1.1 Adversarial Vulnerability](collection/paper/intrinsic_security/adversarial_vulnerability.md) (XX)
         - [1.2 Robustness](collection/paper/intrinsic_security/robustness.md) (XX)
