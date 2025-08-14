@@ -1,4 +1,4 @@
-# Global AI Safety and Governance Never Compromise to Vulnerabilities
+# Global AI Safety and Governance: Never Compromise to Vulnerabilities
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Stars](https://img.shields.io/github/stars/ZTianle/Awesome-AI-SG)](https://github.com/ZTianle/Awesome-AI-SG/stargazers)
