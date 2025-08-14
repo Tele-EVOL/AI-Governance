@@ -1,7 +1,7 @@
-# Awesome AI Governance
+# Global AI Safety and Governance Never Compromise to Vulnerabilities
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Stars](https://img.shields.io/github/stars/YourRepo/Awesome-AI-Governance)](https://github.com/YourRepo/Awesome-AI-Governance/stargazers)
+[![Stars](https://img.shields.io/github/stars/ZTianle/Awesome-AI-SG)](https://github.com/ZTianle/Awesome-AI-SG/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 ## Introduction
@@ -67,7 +67,7 @@ This repository aims to provide researchers, engineers, policymakers, and the pu
 
 ## Thank you to our contributors! 🙏
 
-[![Star History Chart](https://api.star-history.com/svg?repos=YourRepo/Awesome-AI-Governance&type=Date)](https://star-history.com/#YourRepo/Awesome-AI-Governance&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=ZTianle/Awesome-AI-SG&type=Date)](https://star-history.com/#ZTianle/Awesome-AI-SG&Date)
 
 ## Acknowledgement
 
