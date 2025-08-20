@@ -37,32 +37,32 @@ This repository aims to provide researchers, engineers, policymakers, and the pu
 
 ## Collections
 
-- [Policies & Regulations](collections/policies.md) (8)
-- [Surveys](collections/surveys.md) (10)
-- [Books](collections/books.md) (10)
-- **Papers** (310)
-    - **1. Intrinsic Security** (XXX)
-        - [1.1 Adversarial Vulnerability](collections/paper/intrinsic_security/adversarial_vulnerability.md) (XX)
-        - [1.2 Robustness](collections/paper/intrinsic_security/robustness.md) (XX)
-        - [1.3 Hallucination](collections/paper/intrinsic_security/hallucination.md) (XX)
-        - [1.4 Interpretability](collections/paper/intrinsic_security/interpretability.md) (XX)
-    - **2. Derivative Security** (XXX)
-        - [2.1 Privacy Risks](collections/papers/derivate_security/privacy.md) (XX)
-        - [2.2 Bias & Discrimination](collections/papers/derivate_security/bias_discrimination.md) (XX)
-        - [2.3 Abuse & Misuse](collections/papers/derivate_security/abuse_misuse.md) (XX)
-    - **3. Social Ethics** (XXX)
-        - [3.1 Social & Economic Impact](collections/papers/social_ethics/social_economic_impact.md) (XX)
-        - [3.2 Ethical & Legal Issues](collections/papers/social_ethics/ethical_legal.md) (XX)
-        - [3.3 Responsibility & Accountability](collections/papers/social_ethics/responsibility_accountability.md) (XX)
-- **Datasets & Benchmarks** (XXX)
-    - **1. Intrinsic Security** (XX)
-        - [1.1 Robustness & Adversarial](collections/datasets/intrinsic_security/robustness.md) (XX)
-        - [1.2 Hallucination](collections/datasets/intrinsic_security/hallucination.md) (XX)
-        - [1.3 Interpretability](collections/datasets/intrinsic_security/interpretability.md) (XX)
-    - **2. Derivative Security** (XX)
-        - [2.1 Privacy](collections/benchmarks/derivate_security/privacy.md) (XX)
-        - [2.2 Bias & Discrimination](collections/benchmarks/derivate_security/bias_discrimination.md) (XX)
-        - [2.3 Abuse & Misuse (Deepfake)](collections/benchmarks/derivate_security/abuse_misuse.md) (XX)
+- [Policies & Regulations](collections/policies.md)
+- [Surveys](collections/surveys.md)
+- [Books](collections/books.md)
+- **Papers**
+    - **1. Intrinsic Security**
+        - [1.1 Adversarial Vulnerability](collections/papers/intrinsic_security/adversarial_vulnerability.md)
+        - [1.2 Robustness](collections/papers/intrinsic_security/robustness.md)
+        - [1.3 Hallucination](collections/papers/intrinsic_security/hallucination.md)
+        - [1.4 Interpretability](collections/papers/intrinsic_security/interpretability.md)
+    - **2. Derivative Security**
+        - [2.1 Privacy Risks](collections/papers/derivate_security/privacy.md)
+        - [2.2 Bias & Discrimination](collections/papers/derivate_security/bias_discrimination.md)
+        - [2.3 Abuse & Misuse](collections/papers/derivate_security/abuse_misuse.md)
+    - **3. Social Ethics**
+        - [3.1 Social & Economic Impact](collections/papers/social_ethics/social_economic_impact.md)
+        - [3.2 Ethical & Legal Issues](collections/papers/social_ethics/ethical_legal.md)
+        - [3.3 Responsibility & Accountability](collections/papers/social_ethics/responsibility_accountability.md)
+- **Datasets & Benchmarks**
+    - **1. Intrinsic Security**
+        - [1.1 Robustness & Adversarial](collections/benchmarks/intrinsic_security/robustness.md)
+        - [1.2 Hallucination](collections/benchmarks/intrinsic_security/hallucination.md)
+        - [1.3 Interpretability](collections/benchmarks/intrinsic_security/interpretability.md)
+    - **2. Derivative Security**
+        - [2.1 Privacy](collections/benchmarks/derivate_security/privacy.md)
+        - [2.2 Bias & Discrimination](collections/benchmarks/derivate_security/bias_discrimination.md)
+        - [2.3 Abuse & Misuse (Deepfake)](collections/benchmarks/derivate_security/abuse_misuse.md)
 
 
 ## Thank you to our contributors! 🙏
