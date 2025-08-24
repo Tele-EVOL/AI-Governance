@@ -71,4 +71,4 @@ This repository aims to provide researchers, engineers, policymakers, and the pu
 
 ## Acknowledgement
 
-This repository is maintained by the authors of the survey "Never Compromise to Vulnerabilities: A Comprehensive Survey on Al Governance" (TPAMI 2025). The taxonomy and organization are derived directly from this work. We are inspired by the open-source spirit of repositories like [Awesome-LM-SSP](https://github.com/ThuCCSLab/Awesome-LM-SSP), [LLM Security](https://llmsecurity.net/), and [Awesome LLM Security](https://github.com/corca-ai/awesome-llm-security).
+This repository is maintained by the authors of the survey "Never Compromise to Vulnerabilities: A Comprehensive Survey on Al Governance" (submitted to TPAMI). The taxonomy and organization are derived directly from this work. We are inspired by the open-source spirit of repositories like [Awesome-LM-SSP](https://github.com/ThuCCSLab/Awesome-LM-SSP), [LLM Security](https://llmsecurity.net/), and [Awesome LLM Security](https://github.com/corca-ai/awesome-llm-security).
