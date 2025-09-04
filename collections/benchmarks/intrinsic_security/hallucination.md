@@ -1,5 +1,6 @@
 # Hallucination
 
+- [2025/02] **[How Much Do LLMs Hallucinate across Languages? On Multilingual Estimation of LLM Hallucination in the Wild](https://arxiv.org/pdf/2502.12769)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![arXiv](https://img.shields.io/badge/arXiv-f1b800)
 - [2025.04] **[HalluLens: LLM Hallucination Benchmark](https://arxiv.org/abs/2504.17550)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ACL](https://img.shields.io/badge/ACL-f1b800)
 - [2024.10] **[FaithBench: A Diverse Hallucination Benchmark for Summarization by Modern LLMs](https://arxiv.org/abs/2410.13210)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ACL](https://img.shields.io/badge/ACL-f1b800)
 - [2024.10] **[AVHBench: A Cross-Modal Hallucination Benchmark for Audio-Visual Large Language Models](https://arxiv.org/abs/2410.18325)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![ICLR](https://img.shields.io/badge/ICLR-f1b800)
