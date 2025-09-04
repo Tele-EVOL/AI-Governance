@@ -1,4 +1,6 @@
 # Hallucinations
+- [2025/02] **[Trust Me, I'm Wrong: LLMs Hallucinate with Certainty Despite Knowing the Answer](https://arxiv.org/pdf/2502.12964v2)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Evaluation](https://img.shields.io/badge/Evaluation-87b800) ![Technical_Solution](https://img.shields.io/badge/Technical_Solution-87b800)
+
 - [2025/01] **[Mirage in the Eyes: Hallucination Attack on Multi-modal Large Language Models with Only Attention Sink](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-1176-wang-yining.pdf)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![Attack](https://img.shields.io/badge/Attack-87b800)  
 
 - [2025/01] **[VASparse: Towards Efficient Visual Hallucination Mitigation for Large Vision-Language Model via Visual-Aware Sparsification](https://ui.adsabs.harvard.edu/abs/2025arXiv250106553Z/abstract)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![Defense](https://img.shields.io/badge/Defense-87b800)  
@@ -10,9 +12,6 @@
 - [2024/10] **[Look twice before you answer: Memory-space visual retracing for hallucination mitigation in multimodal large language models](https://arxiv.org/pdf/2410.03577)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![Defense](https://img.shields.io/badge/Defense-87b800)  
 
 - [2024/10] **[Mllm can see? dynamic correction decoding for hallucination mitigation](https://arxiv.org/pdf/2410.11779)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![Defense](https://img.shields.io/badge/Defense-87b800)  
-
-- [2024/10] **[Fine-Tuning Large Language Models to Appropriately Abstain with Semantic Entropy](https://arxiv.org/abs/2410.17234)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)  
-
 
 - [2024/10] **[Fine-Tuning Large Language Models to Appropriately Abstain with Semantic Entropy](https://arxiv.org/abs/2410.17234)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)  
 
