@@ -1,4 +1,5 @@
 # Hallucinations
+- **[2025/09]** **[Why Language Models Hallucinate](https://cdn.openai.com/pdf/d04913be-3f6f-4d2b-b283-ff432ef4aaa5/why-language-models-hallucinate.pdf)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Technical_Solution](https://img.shields.io/badge/Technical_Solution-87b800)
 
 - [2025/05] **[Reducing Hallucinations in Language Model-based SPARQL Query Generation Using Post-Generation Memory Retrieval](https://arxiv.org/pdf/2502.13369)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800) ![arXiv](https://img.shields.io/badge/arXiv-f1b800)
 
