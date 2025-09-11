@@ -33,6 +33,7 @@ This repository aims to provide researchers, engineers, policymakers, and the pu
 
 ---
 ## News
+- **[2025.09.11]** &#x1f4e0; **New "News & Case Studies" Section Launched!** This section will curate important news and case studies related to AI safety and governance, specifically focusing on incidents of AI misuse, its negative impacts, and ethical controversies, aiming to provide researchers, policymakers, and the public with a real-time understanding of developments.
 - **[2025.08.08]** &#x1f680; Repository launched! This is a comprehensive hub for AI Governance, including papers, policies, tools, and datasets, with a detailed taxonomy based on our TPAMI 2025 survey.
 
 ## Collections
@@ -40,6 +41,7 @@ This repository aims to provide researchers, engineers, policymakers, and the pu
 - [Policies & Regulations](collections/policies.md)
 - [Surveys](collections/surveys.md)
 - [Books](collections/books.md)
+- [News & Case Studies](collections/news_and_case_studies.md)
 - **Papers**
     - **1. Intrinsic Security**
         - [1.1 Adversarial Vulnerability](collections/papers/intrinsic_security/adversarial_vulnerability.md)
